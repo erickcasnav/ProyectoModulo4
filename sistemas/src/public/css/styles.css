@@ -1,0 +1,18 @@
+.imglogo {
+    max-width: 20%;
+}
+.navbar-brand {
+    max-width: 90%;
+}
+.border-bottom {    
+    border-bottom: 5px solid #a30c0c !important;
+}
+#menuNavbar{
+    width: 100%;
+}
+
+@media (min-width: 768px){
+    .imglogo{
+        max-width: 20%;
+    }
+}
